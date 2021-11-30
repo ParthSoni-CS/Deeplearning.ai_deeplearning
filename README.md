@@ -36,3 +36,26 @@ In this Specialization, you will build and train neural network architectures su
 #### Summery: [link](https://www.coursera.org/learn/neural-networks-deep-learning)
 In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
 By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#### 
+#### Assignments:
+#### Week-2:PA1(optional) : Python Basics with Numpy. 
+-> These exercises will help familiarize you with some essential functions
+
+#### Week-2:PA2(required) : Logistic Regression with a Neural Network Mindset. 
+->This assignment will step you through how to do this with a Neural Network mindset, and so will also hone your intuitions about deep learning. By the end of this notebook, you'll be able to classify your own photo as cat/not cat.
+
+#### Week-3:PA1(required) : Planar Data Classification with One Hidden Layer
+->It's time to build your first neural network, which will have one hidden layer. You'll notice a big difference between this model and the one you implemented previously using logistic regression.
+#####
+<img width="314" alt="Planer data classification" src="https://user-images.githubusercontent.com/73213180/143991531-0770ab5a-fe56-4f5a-83be-a9e9ac18f299.png">
+
+#### Week-4:PA1(required) : Building your Deep Neural Network: Step by Step
+->You're going to implement all the building blocks of a neural network and use these building blocks in Part 2 of the assignment to build a neural network of any architecture you want. 
+
+#### Week-4:PA2(required) : Deep Neural Network - Application
+->Welcome to the second (required) programming exercise of Course 1, Week 4 of the Deep Learning Specialization - the final assignment in this course! In this notebook you will build and train a deep L-layer neural network, and apply it to the very important problem of classifying cat images from non-cat images.  :) 
+
+
+## COURSE NO.2 : Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization. [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/8Y8W7ENRRDRY) 
+
+
