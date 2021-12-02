@@ -22,10 +22,14 @@ In this Specialization, you will build and train neural network architectures su
 ####  -> Natural Language Processing 
 ####  -> Recurrent Neural Networks
 ####  -> Different types of regularization in Deep learning 
-####  -> LSTN 
+####  -> LSTM
 ####  -> Resnets 
 ####  -> Inductive Transfer
 ####  -> Multi-task learning
+####  -> Tackle real world projects
+####  -> YOLO 
+####  -> Convolutional Neural Networks 
+####  -> Keras 
 
 ### It took me almost 4 and a half months to complete this course of specialization with graded assignments and quiz.
 
